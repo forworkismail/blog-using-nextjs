@@ -1,0 +1,3 @@
+ContactPage = () => {};
+
+export default ContactPage;
